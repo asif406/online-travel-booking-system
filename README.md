@@ -57,4 +57,4 @@ Booking Confirmation and Communication:
 After a booking is made, the system sends an email or SMS confirmation with booking details and links to manage the reservation.
 Customer Support:
 
-In case of issues, booking systems often provide customer support via live chat, phone, or
+In case of issues, booking systems often provide customer support via live chat, phone
